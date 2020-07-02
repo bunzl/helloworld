@@ -9,6 +9,7 @@ REPORT ZZHELLOWORLD_ABAPGIT.
 
 write: / 'hello abapGit!'.
 
+write: 'test with plugin of adt'.
 
 write: / 'important branch!'.
 
